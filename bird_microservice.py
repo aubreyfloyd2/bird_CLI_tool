@@ -3,7 +3,7 @@ import requests
 import random
 
 app = Flask(__name__)
-EBIRD_API_TOKEN = '9dmqlr17c65a'  # my personal API code, DO NOT SHARE
+EBIRD_API_TOKEN = put_token_here  # put personal API code, DO NOT SHARE
 
 
 @app.route('/api/random_bird', methods=['GET'])
