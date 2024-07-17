@@ -2,8 +2,6 @@
 
 ## Project Overview
 
-Welcome to the Bird CLI project! This command-line interface (CLI) is tailored for birders who want a tool to explore information about different bird species. Additionally, users can have some fun generating random bird names. The project adopts a microservices architecture, where the project collaborates with a microservice created by a partner.
-
 Welcome to the Bird CLI project! This command-line interface (CLI) is tailored for birders who want a tool to explore information about birds and recent bird sightings. The project adopts a microservices architecture, and integrates with a custom microservice.
 
 ## Project Components
